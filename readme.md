@@ -1,4 +1,4 @@
-## PERN $tack
+## Postgresql, Nodejs, Apollo Server, Graphql and Sequelize ORM
 
 ### Basic CRUP App with PERN $tack with GraphQL and Apollo Server ...
 
